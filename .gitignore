@@ -1,0 +1,15 @@
+# Databases
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+
+# Large model files (check sizes first - see note below)
+# models/*.pkl
