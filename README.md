@@ -1,6 +1,7 @@
 ﻿# 📄 Invoice Intelligence Platform
 
 A machine learning–powered web application that predicts **freight costs** and detects **high-risk vendor invoices**, built to help finance and logistics teams catch anomalies early and forecast shipping expenses with greater accuracy.
+<img width="1917" height="971" alt="Image" src="https://github.com/user-attachments/assets/a853865d-98ec-49bc-adcf-12df673bfae8" />
 
 🔗 **Live Demo:** _[add your Streamlit Cloud link here once deployed]_
 
