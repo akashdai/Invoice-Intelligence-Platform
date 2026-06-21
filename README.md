@@ -19,7 +19,7 @@ Manually reviewing invoices and estimating freight costs is slow and error-prone
 
 ## 🚚 Freight Cost Prediction
 
-<img width="1917" height="971" alt="Image" src="https://github.com/user-attachments/assets/a853865d-98ec-49bc-adcf-12df673bfae8" />
+<img width="1917" height="919" alt="Image" src="https://github.com/user-attachments/assets/885e851a-b727-4789-9128-e288fcc0b0b9" />
 
 The freight prediction module estimates shipping costs instantly based on invoice quantity and invoice dollar value.
 
@@ -27,7 +27,8 @@ The freight prediction module estimates shipping costs instantly based on invoic
 
 ## ⚠️ Invoice Risk Detection
 
-![Invoice Risk Detection](Images/invoice-risk-detection.png)
+<img width="1917" height="923" alt="Image" src="https://github.com/user-attachments/assets/533b2c0d-458d-492f-979a-ffc71f88d815" />
+
 
 The invoice risk detection module identifies potentially risky invoices and flags anomalies for further review.
 
