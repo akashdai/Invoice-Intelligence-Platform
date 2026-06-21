@@ -16,6 +16,24 @@ Manually reviewing invoices and estimating freight costs is slow and error-prone
 - **Invoice Risk Detection** — Flags potentially risky or anomalous invoices based on quantity, dollar amount, and freight cost patterns, using a trained classification model.
 
 ---
+# 📸 Application Screenshots
+
+## 🚚 Freight Cost Prediction
+
+![Freight Prediction](Images/freight-prediction.png)
+
+The freight prediction module estimates shipping costs instantly based on invoice quantity and invoice dollar value.
+
+---
+
+## ⚠️ Invoice Risk Detection
+
+![Invoice Risk Detection](Images/invoice-risk-detection.png)
+
+The invoice risk detection module identifies potentially risky invoices and flags anomalies for further review.
+
+---
+
 
 ## 🧠 How It Works
 
