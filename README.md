@@ -20,7 +20,7 @@ Manually reviewing invoices and estimating freight costs is slow and error-prone
 
 ## 🚚 Freight Cost Prediction
 
-![Freight Prediction](img width="1917" height="971" alt="Image" src="https://github.com/user-attachments/assets/a853865d-98ec-49bc-adcf-12df673bfae8" /)
+<img width="1917" height="971" alt="Image" src="https://github.com/user-attachments/assets/a853865d-98ec-49bc-adcf-12df673bfae8" />
 
 The freight prediction module estimates shipping costs instantly based on invoice quantity and invoice dollar value.
 
